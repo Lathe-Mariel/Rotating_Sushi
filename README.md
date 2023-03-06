@@ -19,3 +19,21 @@ This system is designed carefully for anyone to be able to make it on a low budg
 
 This repository contains 3D models(STL file) of parts to make yourself by using 3Dprinter.  
 If you don't have 3Dprinter, you can also use 3Dprinting service on a Internet, like DMM.make and JLCPCB(cost effective).  
+
+# BOM
+|型式（品番）|購入先|価格|使用個数|使用部位|その他|
+|---|---|---|
+|STB8-65|MonotaRO|75|1|スプロケットシャフト||
+|M10x45|MonotaRO|429|1|アイドラシャフト|M10x45キャップボルト（半ねじ）2本入り|
+|628ZZ|MonotaRO|169|1|スプロケットベアリング|ミニチュアベアリング（内径φ8）|
+|6000|MonotaRO|249|2|アイドラベアリング|内径φ10|
+|AS103-16-15|MonotaRO|289|2|アイドラシャフトスペーサー|アルミスペーサー|
+|3.1x20|MonotaRO|299|1||首下20mm木ねじ|
+|W6-20TB5-60TB8-380mm|Aliexpress(ZhuFeng fittings Store)|599（送料込み）|1|ドライブプーリー＆ドリブンプーリー|ドライブベルト付き|
+|17PM-K044-AKZ|秋月電子通商|700|1|モータ|バイポーラステッピングモータP-06578（NEMA17相当）|
+||ダイソー|330|1|ベースボード|600x300 木製パンチ板|
+|自作|-|-|2|アイドラプーリー||
+|自作|-|-|1|ドライブスプロケット||
+|自作|-|-|1|ドライブシャフトベアリングホルダ||
+  
+ベアリングは開放でもZZ（カバー付き）でもお好きなものをどうぞ．  
