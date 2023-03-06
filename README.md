@@ -21,8 +21,9 @@ This repository contains 3D models(STL file) of parts to make yourself by using 
 If you don't have 3Dprinter, you can also use 3Dprinting service on a Internet, like DMM.make and JLCPCB(cost effective).  
 
 # BOM
+
 |型式（品番）|購入先|価格|使用個数|使用部位|その他|
-|---|---|---|
+---|---|---|---|---|---
 |STB8-65|MonotaRO|75|1|スプロケットシャフト||
 |M10x45|MonotaRO|429|1|アイドラシャフト|M10x45キャップボルト（半ねじ）2本入り|
 |628ZZ|MonotaRO|169|1|スプロケットベアリング|ミニチュアベアリング（内径φ8）|
