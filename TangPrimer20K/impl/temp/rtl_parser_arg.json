@@ -1,0 +1,24 @@
+{
+ "Files" : [
+  {
+   "Path" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/src/debounce.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/src/timer.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/src/top.sv",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/impl/temp/rtl_parser.result",
+ "Top" : "top",
+ "VerilogStd" : "sysv",
+ "VhdlStd" : "vhdl_93"
+}

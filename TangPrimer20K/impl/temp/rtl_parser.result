@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/src/debounce.sv",
+  "InstLine" : 1,
+  "InstName" : "sw_debounce",
+  "ModuleFile" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/src/debounce.sv",
+  "ModuleLine" : 1,
+  "ModuleName" : "sw_debounce"
+ },
+ {
+  "InstFile" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/src/top.sv",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/src/top.sv",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/src/top.sv",
+    "InstLine" : 34,
+    "InstName" : "timer_instance",
+    "ModuleFile" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/src/timer.sv",
+    "ModuleLine" : 1,
+    "ModuleName" : "timer"
+   }
+  ]
+ },
+ {
+  "InstFile" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/src/top.sv",
+  "InstLine" : 162,
+  "InstName" : "timer1",
+  "ModuleFile" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/src/top.sv",
+  "ModuleLine" : 162,
+  "ModuleName" : "timer1"
+ }
+]
