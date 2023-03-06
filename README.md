@@ -32,6 +32,7 @@ If you don't have 3Dprinter, you can also use 3Dprinting service on a Internet, 
 |3.1x20|MonotaRO|299|1||首下20mm木ねじ|
 |W6-20TB5-60TB8-380mm|Aliexpress(ZhuFeng fittings Store)|599（送料込み）|1|ドライブプーリー＆ドリブンプーリー|ドライブベルト付き|
 |17PM-K044-AKZ|秋月電子通商|700|1|モータ|バイポーラステッピングモータP-06578（NEMA17相当）|
+|A4988|amazon(Akozon)|651（送料込み）|1|モータドライバ|Aliexpressにもある|
 ||ダイソー|330|1|ベースボード|600x300 木製パンチ板|
 |自作|-|-|2|アイドラプーリー||
 |自作|-|-|1|ドライブスプロケット||
