@@ -20,6 +20,16 @@ This system is designed carefully for anyone to be able to make it on a low budg
 This repository contains 3D models(STL file) of parts to make yourself by using 3Dprinter.  
 If you don't have 3Dprinter, you can also use 3Dprinting service on a Internet, like DMM.make and JLCPCB(cost effective).  
 
+# 工具
+## プーラー（プーリー抜き）
+モータとして秋月電子通商で販売されているステッピングモータ（NEMA17相当）を使っている．  
+同等のモータはAliexpressなどでも販売されているが，安いため上記モータを選定した．  
+ただし，このモータはプーリーがはめ込まれており，今回の用途ではプーリーを取り外す必要がある．  
+取り外すために必要な工具を次に示す．  
+
+![1678196227728](https://user-images.githubusercontent.com/44542331/224652613-f2dbdd30-c6ee-4f61-9e63-5c027d782dce.jpg)
+![1678196227734](https://user-images.githubusercontent.com/44542331/224652711-58f4a818-7763-46cc-a327-0150c9a4f63f.jpg)
+
 # BOM
 
 |型式（品番）|購入先|価格[¥]|使用個数|使用部位|その他|
@@ -32,7 +42,7 @@ If you don't have 3Dprinter, you can also use 3Dprinting service on a Internet, 
 |3.1x20|MonotaRO|299|1||首下20mm木ねじ|
 |W6-20TB5-60TB8-380mm|Aliexpress(ZhuFeng fittings Store)|599（送料込み）|1|ドライブプーリー＆ドリブンプーリー|ドライブベルト付き|
 |18x18|Aliexpress(Hardware appliances)|1749（送料込み）|1|ベルトコンベア|連結可能|
-|17PM-K044-AKZ|秋月電子通商|700|1|モータ|バイポーラステッピングモータP-06578（NEMA17相当）|
+|17PM-K044-AKZ|秋月電子通商|700|1|モータ|バイポーラステッピングモータP-06578（NEMA17相当）　付属のプーリーを外す必要がある|
 |A4988|amazon(Akozon)|651（送料込み）|1|モータドライバ|Aliexpressにもある|
 ||||1|マイコンボードorFPGAボード|お好みで|
 ||||1|12v-24v程度の電源|1Aもあれば十分|
