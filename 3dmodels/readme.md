@@ -1,4 +1,4 @@
-File name | file type | role
+File name | File type | Role
 --- | --- | ---
 1.pk2 | 3d cad file ver.1 for Creo Elements | for design
 2.pk2 | 3d cad file ver.2 for Creo Elements | for design
