@@ -68,3 +68,6 @@ If you don't have 3Dprinter, you can also use 3Dprinting service on a Internet, 
 ## マイコン or FPGA
 ステッピング・モータのドライバはA4988です．このドライバ・ボードに指令を送るマイコン・ボードかFPGAボードが別途必要です．  
 この用途には，ArduinoとかESP32でいいんじゃないでしょうか？筆者はTang Nano 9Kか，Tang Primer 20Kでやっているので，sampleフォルダにこれらのFPGAboard用のプロジェクト一式が入っています．そのうちRX62N（ルネサス）も使うかもしれません．  
+
+## システム構成
+![sr](https://github.com/lathe-mariel/rotating_sushi/references/basic_system.png)
