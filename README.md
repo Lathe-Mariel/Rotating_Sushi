@@ -70,4 +70,9 @@ If you don't have 3Dprinter, you can also use 3Dprinting service on a Internet, 
 この用途には，ArduinoとかESP32でいいんじゃないでしょうか？筆者はTang Nano 9Kか，Tang Primer 20Kでやっているので，sampleフォルダにこれらのFPGAboard用のプロジェクト一式が入っています．そのうちRX62N（ルネサス）も使うかもしれません．  
 
 ## システム構成
+システムを構成する大まかな要素を図示します．  
+基礎的なシステム  
 ![sr](https://github.com/Lathe-Mariel/Rotating_Sushi/blob/main/references/photos/basic_system.png)
+  
+筆者のシステム  
+![sr](https://github.com/Lathe-Mariel/Rotating_Sushi/blob/main/references/photos/mysystem.png)
