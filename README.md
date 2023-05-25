@@ -67,8 +67,9 @@ If you don't have 3Dprinter, you can also use 3Dprinting service on a Internet, 
 ベアリングは開放でもZZ（カバー付き）でもお好きなものをどうぞ．  
 
 ## マイコン or FPGA
-ステッピング・モータのドライバはA4988です．このドライバ・ボードに指令を送るマイコン・ボードかFPGAボードが別途必要です．  
-この用途には，ArduinoとかESP32でいいんじゃないでしょうか？筆者はTang Nano 9Kか，Tang Primer 20Kでやっているので，sampleフォルダにこれらのFPGAboard用のプロジェクト一式が入っています．そのうちRX62N（ルネサス）も使うかもしれません．  
+ステッピング・モータのドライバはA4988です．このドライバ・ボードに対して指令を送るために，マイコン・ボードかFPGAボードが別途必要です．  
+その用途には，ArduinoとかESP32でいいんじゃないでしょうか？筆者はTang Nano 9Kか，Tang Primer 20Kでやっているので，sampleフォルダにこれらのFPGAboard用のプロジェクト一式が入っています．そのうちRX62N（ルネサス）も使うかもしれません．  
+SampleとしてM5StickCのArduinoスケッチも用意しました．  
 
 ## システム構成
 システムを構成する大まかな要素を図示します．  
