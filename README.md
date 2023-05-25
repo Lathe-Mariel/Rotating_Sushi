@@ -27,6 +27,7 @@ If you don't have 3Dprinter, you can also use 3Dprinting service on a Internet, 
 同等のモータはAliexpressなどでも販売されています．それらはNEMA17で検索するとよいでしょう．  
 秋月モータを使う場合ですが，このモータには最初からプーリーがはめ込まれた状態で販売されています．今回の用途ではプーリーを取り外す必要があります．  
 取り外すために必要な工具を次に示します．  
+例えばこれが使えます（https://www.amazon.co.jp/%E3%83%AB%E3%83%9C%E3%83%8A%E3%83%AA%E3%82%A8-%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%97%E3%83%BC%E3%83%AA%E3%83%BC-%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%97%E3%83%BC%E3%83%A9%E3%83%BC-%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0-%E3%83%97%E3%83%BC%E3%83%AA%E3%83%BC%E5%A4%96%E3%81%97/dp/B0855ZZHYZ/ref=sr_1_11_sspa?keywords=%E3%82%AE%E3%82%A2%E3%83%97%E3%83%BC%E3%83%A9%E3%83%BC&qid=1684989354&sr=8-11-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTUJOUE5MWDdNUzRBJmVuY3J5cHRlZElkPUEwMDQyNjAxMjZDME5VRVNDTTZKNCZlbmNyeXB0ZWRBZElkPUEzUk5JQ043S0sxUVc5JndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1）  
 
 ![1678196227728](https://user-images.githubusercontent.com/44542331/224652613-f2dbdd30-c6ee-4f61-9e63-5c027d782dce.jpg)
 ![1678196227734](https://user-images.githubusercontent.com/44542331/224652711-58f4a818-7763-46cc-a327-0150c9a4f63f.jpg)
