@@ -57,7 +57,7 @@ If you don't have 3Dprinter, you can also use 3Dprinting service on a Internet, 
 |AS103-16-15|MonotaRO|289|2|アイドラシャフトスペーサー|アルミスペーサー|
 |3.1x20|MonotaRO|299|1||首下20mm木ねじ|
 |W6-20TB5-60TB8-380mm|Aliexpress(ZhuFeng fittings Store)|599（送料込み）|1|ドライブプーリー＆ドリブンプーリー|ドライブベルト付き|
-|18x18|Aliexpress(Hardware appliances)|1749（送料込み）|1|ベルトコンベア|連結可能|
+|18x18|Aliexpress(Hardware appliances)|1749（送料込み）|1|ベルトコンベア|連結可能 (https://ja.aliexpress.com/item/32907710773.html?spm=a2g0o.order_list.order_list_main.54.13c6585aeir1go&gatewayAdapt=glo2jpn)|
 |17PM-K044-AKZ|秋月電子通商|700|1|モータ|バイポーラステッピングモータP-06578（NEMA17相当）　付属のプーリーを外す必要がある|
 |A4988|amazon(Akozon)|651（送料込み）|1|モータドライバ|Aliexpressにもある|
 ||||1|マイコンボードorFPGAボード|お好みで|
