@@ -18,9 +18,11 @@ This system is designed carefully for anyone to be able to make it on a low budg
 それらは3Dプリンタで作る想定で設計してあります．  
 3DプリントするためのSTLファイルもこのリポジトリで公開しています．  
 3Dプリンタを持っていない人は，DMM.makeやJLCPCB（コスパいい）といったプリントサービスを利用してもよいでしょう．  
+それらは，'3dmodels' ディレクトリに入っています．  
 
 This repository contains 3D models(STL file) of parts to make yourself by using 3Dprinter.  
 If you don't have 3Dprinter, you can also use 3Dprinting service on a Internet, like DMM.make and JLCPCB(cost effective).  
+Those model's are in a '3dmodels' directory.  
 
 ## マテリアル
 筆者はPLAで出力しています．プリントサービスを使う場合はナイロンでも良いと思います．  
@@ -66,6 +68,7 @@ If you don't have 3Dprinter, you can also use 3Dprinting service on a Internet, 
 |自作|-|-|2|アイドラプーリー| roller_web.stl |
 |自作|-|-|1|ドライブスプロケット| drive_roller_web.stl |
 |自作|-|-|1|ドライブシャフトベアリングホルダ| bearing_holder_web.stl |
+|自作|-|-|1|180°カーブガードレール| curve_guide.stl |
 ||ダイソー|110| * |おもしろ消しゴムシリーズ|寿司|
 
   
