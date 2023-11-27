@@ -5,4 +5,4 @@ File name | File type | Role
 bearing_holder_web.stl | 3d model stl file | for 3d printing
 drive_roller_web.stl | 3d model stl file | for 3d printing
 roller_web.stl | 3d model stl file | for 3d printing
-
+curve_guide.stl | 3d model stl file | for 3dprinting
