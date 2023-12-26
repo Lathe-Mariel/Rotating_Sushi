@@ -57,7 +57,7 @@ Nylon is also good material for this product.
 |STB8-65|MonotaRO|75|1|スプロケットシャフト||
 |M10x45|MonotaRO|429|1|アイドラシャフト|M10x45キャップボルト (注文コード 05522842)|
 |628ZZ|MonotaRO|169|1|スプロケットベアリング|ミニチュアベアリング（内径φ8）|
-|6000|MonotaRO|249|2|アイドラベアリング|内径φ10|
+|6000|MonotaRO|249|2|アイドラベアリング|内径φ10(注文コード00327783)|
 |AS103-16-15|MonotaRO|289|2|アイドラシャフトスペーサー|アルミスペーサー|
 |3.1x20|MonotaRO|299|1||首下20mm木ねじ|
 |W6-20TB5-60TB8-380mm|Aliexpress(ZhuFeng fittings Store)|599（送料込み）|1|ドライブプーリー＆ドリブンプーリー|ドライブベルト付き|
