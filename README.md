@@ -26,6 +26,8 @@ Those model's are in a '3dmodels' directory.
 
 ## マテリアル
 筆者はPLAで出力しています．プリントサービスを使う場合はナイロンでも良いと思います．  
+I recommend using PLA as material.
+Nylon is also good material for this product.
 
 # 工具
 ## プーラー（プーリー抜き）
