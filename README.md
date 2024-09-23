@@ -24,12 +24,12 @@ This repository contains 3D models(STL file) of parts to make yourself by using 
 If you don't have 3Dprinter, you can also use 3Dprinting service on a Internet, like DMM.make and JLCPCB(cost effective).  
 Those model's are in a '3dmodels' directory.  
 
-## マテリアル
+## マテリアル (Materials)
 筆者はPLAで出力しています．プリントサービスを使う場合はナイロンでも良いと思います．  
 I recommend using PLA as material.
 Nylon is also good material for this product.
 
-# 工具
+# 工具 (Tools)
 ## プーラー（プーリー抜き）
 モータとして秋月電子通商で販売されているステッピングモータ（NEMA17相当）を使っています．  
 特に安いためこのモータを選定しました．  
