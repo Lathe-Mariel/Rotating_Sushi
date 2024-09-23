@@ -1,6 +1,6 @@
 # 回転ずし（Rotating_Sushi）
 ミニチュア回転づしを作るプロジェクトです．  
-The system of rotating sushi
+This is a project for making system of rotating sushi
 ![sr](https://user-images.githubusercontent.com/44542331/222964563-e4a0a451-9ff0-4c1a-9cfe-6fa57a71ffef.png)
 
   
