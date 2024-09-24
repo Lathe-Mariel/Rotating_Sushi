@@ -88,3 +88,7 @@ SampleとしてM5StickCのArduinoスケッチも用意しました．
   
 筆者のシステム  
 ![sr](https://github.com/Lathe-Mariel/Rotating_Sushi/blob/main/references/photos/mysystem.png)
+
+## 連結もできる
+![sr](https://github.com/Lathe-Mariel/Rotating_Sushi/blob/main/references/photos/renketu.png)
+
