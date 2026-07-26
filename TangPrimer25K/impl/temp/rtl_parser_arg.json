@@ -1,0 +1,33 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Path" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/pwm.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/test_pwm_servo.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/gowin_pll/gowin_pll.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/gowin_pll/gowin_pll_mod.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/pll_init.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/impl/temp/rtl_parser.result",
+ "Top" : "test_pwm_servo",
+ "VerilogStd" : "sysv",
+ "VhdlStd" : "vhdl_93"
+}

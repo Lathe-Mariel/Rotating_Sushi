@@ -1,0 +1,46 @@
+[
+ {
+  "InstFile" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/pwm.sv",
+  "InstLine" : 1,
+  "InstName" : "pwm",
+  "ModuleFile" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/pwm.sv",
+  "ModuleLine" : 1,
+  "ModuleName" : "pwm"
+ },
+ {
+  "InstFile" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/test_pwm_servo.sv",
+  "InstLine" : 1,
+  "InstName" : "test_pwm_servo",
+  "ModuleFile" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/test_pwm_servo.sv",
+  "ModuleLine" : 1,
+  "ModuleName" : "test_pwm_servo",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/test_pwm_servo.sv",
+    "InstLine" : 40,
+    "InstName" : "your_instance_name",
+    "ModuleFile" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/gowin_pll/gowin_pll.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "Gowin_PLL",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/gowin_pll/gowin_pll.v",
+      "InstLine" : 21,
+      "InstName" : "u_pll",
+      "ModuleFile" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/gowin_pll/gowin_pll_mod.v",
+      "ModuleLine" : 11,
+      "ModuleName" : "Gowin_PLL_MOD"
+     },
+     {
+      "InstFile" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/gowin_pll/gowin_pll.v",
+      "InstLine" : 34,
+      "InstName" : "u_pll_init",
+      "ModuleFile" : "C:/Users/user/Downloads/SV_240812_mhut_2001/SV_240812_mhut_2001/pwm_servo/src/pll_init.v",
+      "ModuleLine" : 4,
+      "ModuleName" : "PLL_INIT"
+     }
+    ]
+   }
+  ]
+ }
+]
