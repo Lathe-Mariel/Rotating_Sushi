@@ -1,15 +1,16 @@
 {
+ "Device" : "GW2A-18C",
  "Files" : [
   {
-   "Path" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/src/debounce.sv",
+   "Path" : "H:/git/Rotating_Sushi/TangPrimer20K/src/debounce.sv",
    "Type" : "verilog"
   },
   {
-   "Path" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/src/timer.sv",
+   "Path" : "H:/git/Rotating_Sushi/TangPrimer20K/src/timer.sv",
    "Type" : "verilog"
   },
   {
-   "Path" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/src/top.sv",
+   "Path" : "H:/git/Rotating_Sushi/TangPrimer20K/src/top.sv",
    "Type" : "verilog"
   }
  ],
@@ -17,7 +18,7 @@
 
  ],
  "LoopLimit" : 2000,
- "ResultFile" : "D:/Git/Pmod_A4988/sample/GOWIN_motor/impl/temp/rtl_parser.result",
+ "ResultFile" : "H:/git/Rotating_Sushi/TangPrimer20K/impl/temp/rtl_parser.result",
  "Top" : "top",
  "VerilogStd" : "sysv",
  "VhdlStd" : "vhdl_93"
